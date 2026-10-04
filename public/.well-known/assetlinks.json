@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mulberra.app",
+      "sha256_cert_fingerprints": [
+        "98:03:B5:EF:78:86:E1:45:79:16:78:55:38:F4:E2:B5:FB:99:F9:2A:D5:C3:C0:42:9A:74:2F:5F:FC:A4:B7:32"
+      ]
+    }
+  }
+]
