@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PHCJZZ7U2K.com.mulberra.app",
+        "paths": ["/app/*"]
+      }
+    ]
+  }
+}
